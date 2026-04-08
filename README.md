@@ -31,7 +31,7 @@ This userscript detects which button is currently native in the toolbar and inje
 
 ### From Greasy Fork
 
-Install directly from [Greasy Fork](https://greasyfork.org/) (link TBD after publishing).
+Install directly from [Greasy Fork](https://greasyfork.org/en/scripts/573037-icloud-mail-show-archive-delete-together).
 
 ### From GitHub
 
