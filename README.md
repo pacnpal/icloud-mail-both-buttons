@@ -27,7 +27,7 @@ This userscript detects which button is currently native in the toolbar and inje
 
 ## Installation
 
-**Make sure you check the "Show Archive button in the toolbar" box is checked in the iCloud Settings under Viewing** 
+**Make sure you check the "Show Archive button in the toolbar" box in the iCloud Settings under Viewing** 
 
 ### From Greasy Fork
 
